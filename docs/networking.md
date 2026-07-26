@@ -1,7 +1,7 @@
-# Basic Linux Commands
+#Basic Networking Commands
 
 > **Operating System:** Kali Linux 2026.x  
-> **Shell:** Bash  
+> **Shell:** Zsh  
 > **Author:** Ridwan  
 > **Purpose:** Practical documentation of basic Linux commands with screenshots and explanations.
 
